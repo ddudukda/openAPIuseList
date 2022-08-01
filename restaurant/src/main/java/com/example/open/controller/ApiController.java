@@ -1,4 +1,4 @@
-package com.example.open.wishlist.controller;
+package com.example.open.controller;
 
 import com.example.open.wishlist.dto.WishListDto;
 import com.example.open.wishlist.service.WishListService;
